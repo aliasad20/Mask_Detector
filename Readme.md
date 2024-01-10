@@ -1,1 +1,1 @@
-![GIF File](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Demo Visual](Demo.gif)
